@@ -1,5 +1,5 @@
 ---
-name: product-query
+name: zzwealth-fin-data
 description: 查询股票、公募基金等金融产品数据。当用户需要查询股票行情、公募基金净值、持仓、分红、费率、基金经理等金融数据时使用。
 ---
 
