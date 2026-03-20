@@ -1,4 +1,4 @@
-# Fin Data Skill
+# ZZWealth Fin Data Skill
 
 查询股票、公募基金等金融产品数据的 Agent Skill，支持在 Claude Code、OpenClaw 等 AI 工具中安装使用。
 
